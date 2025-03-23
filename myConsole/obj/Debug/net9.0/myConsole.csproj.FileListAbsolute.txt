@@ -1,0 +1,14 @@
+C:\Users\TimRoberts\source\repos\ConsoleReadline\myConsole\bin\Debug\net9.0\myConsole.exe
+C:\Users\TimRoberts\source\repos\ConsoleReadline\myConsole\bin\Debug\net9.0\myConsole.deps.json
+C:\Users\TimRoberts\source\repos\ConsoleReadline\myConsole\bin\Debug\net9.0\myConsole.runtimeconfig.json
+C:\Users\TimRoberts\source\repos\ConsoleReadline\myConsole\bin\Debug\net9.0\myConsole.dll
+C:\Users\TimRoberts\source\repos\ConsoleReadline\myConsole\bin\Debug\net9.0\myConsole.pdb
+C:\Users\TimRoberts\source\repos\ConsoleReadline\myConsole\obj\Debug\net9.0\myConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TimRoberts\source\repos\ConsoleReadline\myConsole\obj\Debug\net9.0\myConsole.AssemblyInfoInputs.cache
+C:\Users\TimRoberts\source\repos\ConsoleReadline\myConsole\obj\Debug\net9.0\myConsole.AssemblyInfo.cs
+C:\Users\TimRoberts\source\repos\ConsoleReadline\myConsole\obj\Debug\net9.0\myConsole.csproj.CoreCompileInputs.cache
+C:\Users\TimRoberts\source\repos\ConsoleReadline\myConsole\obj\Debug\net9.0\myConsole.dll
+C:\Users\TimRoberts\source\repos\ConsoleReadline\myConsole\obj\Debug\net9.0\refint\myConsole.dll
+C:\Users\TimRoberts\source\repos\ConsoleReadline\myConsole\obj\Debug\net9.0\myConsole.pdb
+C:\Users\TimRoberts\source\repos\ConsoleReadline\myConsole\obj\Debug\net9.0\myConsole.genruntimeconfig.cache
+C:\Users\TimRoberts\source\repos\ConsoleReadline\myConsole\obj\Debug\net9.0\ref\myConsole.dll
